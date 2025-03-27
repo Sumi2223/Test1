@@ -1,0 +1,1 @@
+"Amazon Web Services (AWS) is one of the most popular cloud computing platforms, offering a wide range of services for businesses, developers, and individuals to build, deploy, and scale applications"
